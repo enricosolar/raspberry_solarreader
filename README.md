@@ -41,8 +41,8 @@ https://solarfanenrico.de/solarreader/Linux_solarreader-1.2_2023-01-06.img.zip
 
 
 entpacken und auf microSD ein Laufwerksabbild erstellen
-in den Pi stecken und startenp
-dann h
+in den Pi stecken und starten
+den komplettesn Speicher freigeben mit
 
 sudo raspi-config
 
