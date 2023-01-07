@@ -1,0 +1,2 @@
+# raspberry_solarreader
+Solarreader_fuer_RaspberryPi
