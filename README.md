@@ -67,4 +67,9 @@ mit IP des RaspberryPI:8080 wird die Konfigurationsoberfläche aufgerufen
 
 die weiterführende Anleitung gibt es als PDF unter
 
-https://solarfanenrico.de/Solarreader_Installation.pdf
+https://solarfanenrico.de/Solarreader_Installation.pdf 
+
+diese ist zwar noch nicht endgültig fertig, weil ich selbst auch noch nicht alle Möglichkeiten nutze.
+Hier bin ich auf die Zuarbeit von Euch angewiesen.
+
+Gebt Vorschläge, damit es verbessert werden kann
