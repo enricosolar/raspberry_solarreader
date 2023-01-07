@@ -1,2 +1,66 @@
 # raspberry_solarreader
 Solarreader_fuer_RaspberryPi
+Beschreibung:
+lauffähig ab Raspberry Pi2B+  , auch Grafana, dort mit USB-Wlan-Adapter oder LAN, 
+Mit Hilfestellung ist auch Betrieb über USB möglich.
+
+ab Pi3B+ ist Wlan  und USB-Start über OS integriert
+
+Basis: „2021-01-11-raspios-buster-armhf.img“  mit aktuell verfügbaren updates
+             influx V.1.8.10, 
+            Grafana 9.3.2, 
+            MQTT (Mosquitto)
+           Browser Chromium & Mozilla Firefox ESR
+    auch 
+         Apache2 und PHP für individuellen Gebrauch
+         Raspberry_Handbuch_Deutsch
+
+6 InfluxDB
+                     solaranzeige
+                     steuerung
+                     solarreader
+                     solarreader1
+                     solarreader2
+                     solarreader3
+      alle angelegt und in Grafana bekannt gemacht,
+      müssen nur in der Konfigurations-GUI aktiviert werden.
+
+Datensicherung der influxDB‘s bereits vorbereitet. 
+
+Alle Grafana-Stanbdard-Dashboards der solaranzeige enthalten.
+Passwörter:
+
+Raspberry
+user: pi            Passwort: solarreader
+Grafana
+user: admin     Passwort: solarreader
+
+Download mit
+
+https://solarfanenrico.de/solarreader/Linux_solarreader-1.2_2023-01-06.img.zip
+
+
+entpacken und auf microSD ein Laufwerksabbild erstellen
+in den Pi stecken und startenp
+dann h
+
+sudo raspi-config
+
+6 Advanced Options    auswählen
+
+danach
+
+A1 Expanded Filesystem     wählen
+
+dadurch bereitet sich der Pi auf die neue Laufwerksgröße vor.
+Den Pi automatisch straten lassen
+
+mit dem Befehl
+
+df -h kann man den Erfolg kontrollieren
+bei einer 15 GB SD sieht die erste Antwortzeile so aus
+Dateisystem Größe Benutzt Verf. Verw% Eingehängt auf
+/dev/root        15G    5,6G    8,1G   41%        /
+
+
+mit IP des RaspberryPI:8080 wird die Konfigurationsoberfläche aufgerufen
