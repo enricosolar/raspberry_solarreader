@@ -64,3 +64,7 @@ Dateisystem Größe Benutzt Verf. Verw% Eingehängt auf
 
 
 mit IP des RaspberryPI:8080 wird die Konfigurationsoberfläche aufgerufen
+
+die weiterführende Anleitung gibt es als PDF unter
+
+https://solarfanenrico.de/Solarreader_Installation.pdf
