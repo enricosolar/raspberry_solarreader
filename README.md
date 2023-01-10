@@ -6,11 +6,27 @@ Mit Hilfestellung ist auch Betrieb über USB möglich.
 
 ab Pi3B+ ist Wlan  und USB-Start über OS integriert
 
-Basis: „2021-01-11-raspios-buster-armhf.img“  mit aktuell verfügbaren updates
-             influx V.1.8.10, 
-            Grafana 9.3.2, 
-            MQTT (Mosquitto)
-           Browser Chromium & Mozilla Firefox ESR
+Basis: Compatible with:
+
+    All Raspberry Pi models
+
+Raspberry Pi OS with desktop
+
+    Release date: September 22nd 2022
+    System: 32-bit
+    Kernel version: 5.15
+    Debian version: 11 (bullseye)
+    Size: 894MB
+
+
+
+Release notes mit aktuell verfügbaren updates
+
+
+-   influx V.1.8.10, 
+-   Grafana 9.3.2, 
+-   MQTT (Mosquitto)
+-  Browser Chromium & Mozilla Firefox ESR
     auch 
          Apache2 und PHP für individuellen Gebrauch
          Raspberry_Handbuch_Deutsch
