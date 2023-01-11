@@ -12,15 +12,12 @@ Basis: Compatible with:
 
 Raspberry Pi OS with desktop
 
-    Release date: September 22nd 2022
+    Release date: Mai 2021 
     System: 32-bit
-    Kernel version: 5.15
-    Debian version: 11 (bullseye)
-    Size: 894MB
-
-
-
-Release notes mit aktuell verfügbaren updates
+    Kernel version: 5.10
+    Debian version: 10 (buster)
+    Relase 1,2G
+       Release notes mit aktuell verfügbaren updates ausgestattet
 
 
 -   influx V.1.8.10, 
