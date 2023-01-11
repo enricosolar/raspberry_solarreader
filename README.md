@@ -24,31 +24,31 @@ Raspberry Pi OS with desktop
 -   Grafana 9.3.2, 
 -   MQTT (Mosquitto)
 -  Browser Chromium & Mozilla Firefox ESR
-    auch 
-         Apache2 und PHP für individuellen Gebrauch
-         Raspberry_Handbuch_Deutsch
+-  Apache2 
+-    PHP für individuellen Gebrauch
+-   Raspberry_Handbuch_Deutsch
 
-6 InfluxDB
-                     solaranzeige
-                     steuerung
-                     solarreader
-                     solarreader1
-                     solarreader2
-                     solarreader3
-      alle angelegt und in Grafana bekannt gemacht,
-      müssen nur in der Konfigurations-GUI aktiviert werden.
+-   6 InfluxDB
+-                     solaranzeige
+-                     steuerung
+-                     solarreader
+-                     solarreader1
+-                     solarreader2
+-                     solarreader3
+-      alle angelegt und in Grafana bekannt gemacht,
+-      müssen nur in der Konfigurations-GUI aktiviert werden.
 
-Datensicherung der influxDB‘s bereits vorbereitet. 
+-Datensicherung der influxDB‘s bereits vorbereitet. 
 
-Alle Grafana-Stanbdard-Dashboards der solaranzeige enthalten.
-Passwörter:
+-Alle Grafana-Stanbdard-Dashboards der solaranzeige enthalten.
+-Passwörter:
 
-Raspberry
-user: pi            Passwort: solarreader
-Grafana
-user: admin     Passwort: solarreader
+-Raspberry
+-user: pi            Passwort: solarreader
+-Grafana
+-user: admin     Passwort: solarreader
 
-Download mit
+-Download mit
 
 https://solarfanenrico.de/solarreader/Linux_solarreader-1.2_2023-01-06.img.zip
 
