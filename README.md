@@ -67,6 +67,7 @@ Dateisystem Größe Benutzt Verf. Verw% Eingehängt auf
 /dev/root        15G    5,6G    8,1G   41%        /
 
 in einem beliebigen Browser auf einem beliebigen Grerät
+
 die IP des Rasperrys eintragen. Es folgt dr Hinweis
 mit IP des RaspberryPI:8080 wird die Konfigurationsoberfläche aufgerufen
 und 
