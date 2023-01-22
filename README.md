@@ -59,15 +59,18 @@ A1 Expanded Filesystem     wählen
 dadurch bereitet sich der Pi auf die neue Laufwerksgröße vor.
 Den Pi automatisch straten lassen
 
-mit dem Befehl
+mit dem Konsolenbefehl
 
 df -h kann man den Erfolg kontrollieren
 bei einer 15 GB SD sieht die erste Antwortzeile so aus
 Dateisystem Größe Benutzt Verf. Verw% Eingehängt auf
 /dev/root        15G    5,6G    8,1G   41%        /
 
-
+in einem beliebigen Browser auf einem beliebigen Grerät
+die IP des Rasperrys eintragen. Es folgt dr Hinweis
 mit IP des RaspberryPI:8080 wird die Konfigurationsoberfläche aufgerufen
+und 
+Grafana mit IP des Raspberry:3000
 
 die erweiterte Anleitung gibt es als PDF unter
 
