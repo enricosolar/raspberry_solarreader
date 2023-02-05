@@ -41,6 +41,9 @@ Raspberry Pi OS with desktop
 
 -Download mit
 
+https://solarfanenrico.de/solarreader/solarreader-1.3g_rasp.img.zip       (aktuell)
+
+
 https://solarfanenrico.de/solarreader/Linux_solarreader-1.2_2023-01-06.img.zip
 
 
