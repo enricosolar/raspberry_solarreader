@@ -60,7 +60,7 @@ danach
 A1 Expanded Filesystem     wählen
 
 dadurch bereitet sich der Pi auf die neue Laufwerksgröße vor.
-Den Pi automatisch straten lassen
+Den Pi automatisch starten lassen
 
 mit dem Konsolenbefehl
 
