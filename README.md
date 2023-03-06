@@ -21,7 +21,8 @@ Raspberry Pi OS with desktop
 
 
 -   influx V.1.8.10, 
--   Grafana 9.3.2, 
+-   java -version (openjdk version "11.0.18" 2023-01-17),
+-   Grafana 9.3.2,
 -   MQTT (Mosquitto)
 -   Browser Chromium & Mozilla Firefox ESR
 -   Apache2 
