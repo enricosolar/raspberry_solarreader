@@ -44,11 +44,6 @@ Raspberry Pi OS with desktop
 
   https://solarfanenrico.de/solarreader/solarreader_1_3_raspberry_2023-02-17.img.zip  (aktuell)
 
-ältere:
-https://solarfanenrico.de/solarreader/solarreader-1.3g_rasp.img.zip   (beta)
-
-https://solarfanenrico.de/solarreader/Linux_solarreader-1.2_2023-01-06.img.zip
-
 
 entpacken und auf microSD ein Laufwerksabbild erstellen
 in den Pi stecken und starten
