@@ -81,4 +81,9 @@ https://solarfanenrico.de/Solarreader_Installation.pdf
 diese ist zwar noch nicht endgültig fertig, weil ich selbst auch noch nicht alle Möglichkeiten nutze.
 Hier bin ich auf die Zuarbeit von Euch angewiesen.
 
+Wenn man den ständigen "Login" umgehen möchte habe ich hier eine Möglichkeit.
+
+https://solarfanenrico.de/grafana_log_ausschalten.pdf
+
+
 Gebt Vorschläge, damit es verbessert werden kann
