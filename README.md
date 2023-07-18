@@ -38,6 +38,9 @@ Raspberry Pi OS with desktop
 - Passwörter:
 
 - Raspberry: user: pi,   Passwort: solarreader
+ssh-Verbindung mit
+-  ssh pi@IP_des_Pi    , danach nur die Eingabe von       solarreader
+
 - Grafana: user: admin   Passwort: solarreader
 
 -Download mit
